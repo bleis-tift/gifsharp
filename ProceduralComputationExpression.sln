@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProceduralComputationExpression", "ProceduralComputationExpression\ProceduralComputationExpression.fsproj", "{2EE82020-0048-411E-A59D-96733EB247BD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sample", "Sample\Sample.fsproj", "{C0DCC3E0-0C0D-491A-A7FE-D7ABB36A320D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE82020-0048-411E-A59D-96733EB247BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE82020-0048-411E-A59D-96733EB247BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE82020-0048-411E-A59D-96733EB247BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE82020-0048-411E-A59D-96733EB247BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DCC3E0-0C0D-491A-A7FE-D7ABB36A320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DCC3E0-0C0D-491A-A7FE-D7ABB36A320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DCC3E0-0C0D-491A-A7FE-D7ABB36A320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DCC3E0-0C0D-491A-A7FE-D7ABB36A320D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
